@@ -1,0 +1,14 @@
+{
+  "name": "kana-practice",
+  "build": {
+    "command": "npm run build",
+    "output": "dist"
+  },
+  "compatibility_date": "2025-04-02",
+  "site": {
+    "bucket": "./dist"
+  },
+  "dev": {
+    "port": 5173
+  }
+}
