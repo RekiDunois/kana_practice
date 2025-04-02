@@ -10,5 +10,6 @@
   },
   "dev": {
     "port": 5173
-  }
+  },
+  "main": "dist/index.html"
 }
